@@ -72,7 +72,7 @@ A full-cycle business intelligence system simulating a real commercial mall — 
 
 **Key finding:** A **structural 25% collection gap** persisting across 4 full fiscal years (2022–2025), with the highest-traffic zone (Main Entrance, 95% footfall) carrying the largest shortfall — confirming the leak is a governance problem, not a demand problem.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/MahmoudHamdi9](https://github.com/MahmoudHamdi9/Commercial-Mall-End-to-End-BI-System.git))
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudHamdi9/Commercial-Mall-End-to-End-BI-System)
 
 ---
 
@@ -91,7 +91,7 @@ Comprehensive Power BI analytics platform covering **$1.54B in revenue**, 2,000 
 - 📊 Bottom-tier agents recorded conversion efficiency as low as **17%** — top performers close premium-tier properties, not just more volume
 - 💡 2024 buyer cohort identified as highest-ROI retargeting segment vs cold acquisition
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/MahmoudHamdi9](https://github.com/MahmoudHamdi9/Real-Estate-Performance-Analytics-2026-.git))
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudHamdi9/Real-Estate-Performance-Analytics-2026-)
 
 ---
 
@@ -105,7 +105,7 @@ Large-scale descriptive analytics project processing **200,000+ rows** to identi
 - 📦 Inventory optimization insights based on Manual vs. Automatic transmission demand by geography
 - 📊 High-impact visual dashboard tracking sales performance against car specifications — built for non-technical stakeholders
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/MahmoudHamdi9](https://github.com/MahmoudHamdi9/Market-Performance-Analysis.git))
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudHamdi9/Market-Performance-Analysis)
 
 ---
 
