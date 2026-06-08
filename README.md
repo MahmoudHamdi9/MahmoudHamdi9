@@ -6,7 +6,7 @@
 
 <br/>
 
-## `$ whoami`
+## `🔻 whoami`
 
 ```yaml
 name        : Mahmoud Hamdi El-Sayed
@@ -59,7 +59,7 @@ currently   : Building BI solutions with SQL Server, Power BI & Python
 
 <br/>
 
-### 🏢 Agamy Star Mall — End-to-End BI System
+### 🏢 Commercial Mall ( Agamy Star Mall ) — End-to-End BI System
 > `SQL Server 2022` · `Power BI` · `DAX` · `Galaxy Schema` · `T-SQL`
 
 A full-cycle business intelligence system simulating a real commercial mall — built entirely from scratch, from database schema to executive dashboard.
