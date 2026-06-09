@@ -119,17 +119,8 @@ Large-scale descriptive analytics project processing **200,000+ rows** to identi
 | **Data Analysis with SQL & Python** | DataCamp | 10+ Courses |
 
 ---
-
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamdi9&show_icons=true&theme=github_dark&title_color=BDD7EE&icon_color=F2C811&text_color=ffffff&bg_color=0D1117&border_color=1F497D&hide_border=false&count_private=true"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHamdi9&layout=compact&theme=github_dark&title_color=BDD7EE&text_color=ffffff&bg_color=0D1117&border_color=1F497D&hide_border=false&langs_count=6"/>
-
-</div>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudHamdi9&theme=github-compact&color=BDD7EE&line=1F497D&point=F2C811&hide_border=false"/>
 ---
 
 ## 🤝 Connect
