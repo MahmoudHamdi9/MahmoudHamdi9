@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F497D&height=200&section=header&text=Mahmoud%20Hamdi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer&descAlignY=58&descSize=20&descColor=BDD7EE&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F497D&height=200&section=header&text=Mahmoud%20Hamdi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=22&descColor=BDD7EE&animation=fadeIn"/>
 
 </div>
 
 <br/>
 
-## `🔻 whoami`
+## `$ whoami`
 
 ```yaml
 name        : Mahmoud Hamdi El-Sayed
-role        : Data Analyst & Business Intelligence Developer
+role        : Data Analyst
 location    : Egypt 🇪🇬
 focus       : End-to-end analytics — from raw data to executive decisions
-currently   : Building BI solutions with SQL Server, Power BI & Python
+currently   : Building analytics solutions with SQL Server, Power BI & Python
 ```
 
 > *I don't just visualize data — I engineer the pipeline that makes it trustworthy.*
@@ -31,12 +31,12 @@ currently   : Building BI solutions with SQL Server, Power BI & Python
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data Engineering & Modeling**
+**Data Modeling & Reporting**
 
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Star Schema](https://img.shields.io/badge/Star%20Schema-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![T--SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Python Libraries**
 
@@ -59,15 +59,15 @@ currently   : Building BI solutions with SQL Server, Power BI & Python
 
 <br/>
 
-### 🏢 Commercial Mall ( Agamy Star Mall ) — End-to-End BI System
+### 🏢 Commercial Mall (Agamy Star Mall) — End-to-End BI System
 > `SQL Server 2022` · `Power BI` · `DAX` · `Galaxy Schema` · `T-SQL`
 
-A full-cycle business intelligence system simulating a real commercial mall — built entirely from scratch, from database schema to executive dashboard.
+A full-cycle analytics project simulating a real commercial mall — built entirely from scratch, from database schema to executive dashboard.
 
 **What was built:**
-- 🗄️ **15-table relational schema** in SQL Server 2022 with full constraint engineering (PK, FK, CHECK, DEFAULT) enforcing 100% data integrity across tenancy, finance, and HR
+- 🗄️ **15-table relational schema** in SQL Server 2022 with full constraint engineering (PK, FK, CHECK, DEFAULT) ensuring referential integrity across tenancy, finance, and HR
 - 🔷 **Galaxy Schema** in Power BI — 5 separate fact tables (Invoices, Collections, Expenses, Violations, Evaluations) connected through shared dimensions, preserving grain integrity across all analytical domains
-- 🔍 **7 reusable SQL Views** forming a semantic analytics layer — each one anchored to a specific business question, from financial reconciliation to overdue invoice seasonality
+- 🔍 **7 reusable SQL Views** forming a semantic analytics layer — each anchored to a specific business question, from financial reconciliation to overdue invoice seasonality
 - 📊 **2-page executive dashboard** covering collection efficiency (74.73%), zone-level revenue leakage, tenant arrear rankings, HR attendance compliance (83.53%), and individual productivity scoring
 
 **Key finding:** A **structural 25% collection gap** persisting across 4 full fiscal years (2022–2025), with the highest-traffic zone (Main Entrance, 95% footfall) carrying the largest shortfall — confirming the leak is a governance problem, not a demand problem.
