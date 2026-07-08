@@ -76,7 +76,24 @@ A full-cycle analytics project simulating a real commercial mall — built entir
 
 ---
 
-### 🏙️ Real Estate Performance Analytics — EMAAR
+### 📱 Social Media Marketing Intelligence 
+> `Python` · `Power BI` · `DAX` · `Star Schema` · `Apify` · `Regex NLP`
+
+A marketing intelligence initiative built to support data-driven decision-making for a regional retail brand's social media team — analyzing owned performance across Facebook, Instagram, and TikTok, while using publicly available data from an international retail benchmark to better understand audience behavior and validate findings.
+
+**What was built:**
+- 🐍 **Python ETL pipeline** using Apify to collect and preprocess 4,768+ social media posts across Facebook, Instagram, and TikTok, including a custom bilingual (Arabic/English) regex-based text-cleaning layer for mixed-language content
+- ⭐ **Star Schema** in Power BI — 3 platform-specific fact tables and 2 conformed dimensions (Dim_Calendar, Dim_Brand), powering **30+ DAX measures** across a multi-page marketing intelligence dashboard
+- 🌍 **External industry benchmark** — used publicly available data from an international retail benchmark purely as a learning reference to validate audience-behavior patterns and strengthen insights drawn from the brand's own performance, not as a competitive scorecard
+- 📅 **Content-pattern analysis** identifying seasonal and event-driven content (Ramadan, Eid, Back-to-School) as the most consistent driver of engagement, and flagging posting-time patterns that require further validation before adoption into the content calendar
+
+**Key finding:** A **six-part executive analysis** delivering prioritized recommendations, KPIs, implementation timelines, and action owners — translating raw social data into a practical roadmap to improve content efficiency, platform allocation, and audience engagement quality.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudHamdi9/Marketing-Intelligence-Dashboard)
+
+---
+
+### 🏙️ Real Estate Performance Analytics 
 > `Power BI` · `Power Query` · `DAX` · `Star Schema` · `Time Intelligence`
 
 Comprehensive Power BI analytics platform covering **$1.54B in revenue**, 2,000 units sold, and 5,000 client visits across three fiscal years (2023–2025).
@@ -92,20 +109,6 @@ Comprehensive Power BI analytics platform covering **$1.54B in revenue**, 2,000 
 - 💡 2024 buyer cohort identified as highest-ROI retargeting segment vs cold acquisition
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudHamdi9/Real-Estate-Performance-Analytics-2026-)
-
----
-
-### 🚗 Global Automotive Market Trends — BMW
-> `Excel (Advanced)` · `Pivot Tables` · `Descriptive Analytics` · `Dashboard Design`
-
-Large-scale descriptive analytics project processing **200,000+ rows** to identify global demand trends, product-mix preferences, and inventory optimization opportunities across BMW's international markets.
-
-**What was built:**
-- 🌍 Cross-continental analysis on car type, color, energy source, and transmission preferences — with region-specific breakdowns
-- 📦 Inventory optimization insights based on Manual vs. Automatic transmission demand by geography
-- 📊 High-impact visual dashboard tracking sales performance against car specifications — built for non-technical stakeholders
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudHamdi9/Market-Performance-Analysis)
 
 ---
 
